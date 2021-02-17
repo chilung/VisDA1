@@ -1,4 +1,4 @@
-Clone from https://github.com/vimar-gu/Bias-Eliminate-DA-ReID
+Clone from https://github.com/vimar-gu/Bias-Eliminate-DA-ReID for practice purpose.
 
 # Bias Eliminate Domain Adaptive Pedestrian Re-identification [[Technique Report]](https://github.com/vimar-gu/Bias-Eliminate-DA-ReID/blob/master/files/TechReport.pdf)
 
